@@ -55,12 +55,12 @@ Choose the files or text you want to share within the Sharelines app.
 Recipients can access shared items through a web browser, eliminating the need for them to install the app.
 
 ### Screenshots
-<p style="display: flex; height: 500px;">
-    <img src="./assets/screenshots/android/Screenshot_20240214_213142.png" alt="s1" style="margin: 0 10px 0 0">
-    <img src="./assets/screenshots/android/Screenshot_20240214_213207.png" alt="s2" style="margin: 0 10px 0 0">
-    <img src="./assets/screenshots/android/Screenshot_20240214_213222.png" alt="s3" style="margin: 0 10px 0 0">
-    <img src="./assets/screenshots/android/Screenshot_20240214_213233.png" alt="s4" style="margin: 0 10px 0 0">
-    <img src="./assets/screenshots/android/Screenshot_20240214_213253.png" alt="s5" style="margin: 0 10px 0 0">
-    <img src="./assets/screenshots/android/Screenshot_20240214_213519.png" alt="s5" style="margin: 0 10px 0 0">
+<p style="display: inline;">
+    <img src="./assets/screenshots/android/Screenshot_20240214_213142.png" alt="s1" style="margin: 0 1% 0 0; width: 18%">
+    <img src="./assets/screenshots/android/Screenshot_20240214_213207.png" alt="s2" style="margin: 0 1% 0 0; width: 18%">
+    <img src="./assets/screenshots/android/Screenshot_20240214_213222.png" alt="s3" style="margin: 0 1% 0 0; width: 18%">
+    <img src="./assets/screenshots/android/Screenshot_20240214_213233.png" alt="s4" style="margin: 0 1% 0 0; width: 18%">
+    <img src="./assets/screenshots/android/Screenshot_20240214_213253.png" alt="s5" style="margin: 0 1% 0 0; width: 18%">
+    <img src="./assets/screenshots/android/Screenshot_20240214_213519.png" alt="s5" style="margin: 0 1% 0 0; width: 18%">
 </p>>
    

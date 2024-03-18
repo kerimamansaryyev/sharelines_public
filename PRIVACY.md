@@ -1,6 +1,6 @@
 Privacy Policy for Sharelines
 
-Last Updated: 2024-02-14
+Last Updated: 2024-03-17
 
 ## 1. Introduction
 
@@ -38,4 +38,4 @@ We may update this Privacy Policy to reflect changes in the app or respond to us
 
 ## 8. Contact Us
 
-If you have any questions or concerns about our Privacy Policy or the Sharelines app, please contact us at k.amansaryyev@gmail.com
+If you have any questions or concerns about our Privacy Policy or the Sharelines app, please contact Kerim Amansaryyev at k.amansaryyev@gmail.com

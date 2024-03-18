@@ -38,4 +38,4 @@ We may update this Privacy Policy to reflect changes in the app or respond to us
 
 ## 8. Contact Us
 
-If you have any questions or concerns about our Privacy Policy or the Sharelines app, please contact Kerim Amansaryyev at k.amansaryyev@gmail.com
+If you have any questions or concerns about our Privacy Policy or the Sharelines app, please contact Kerim Amansaryyev at kerimamanwork@gmail.com
